@@ -22,7 +22,7 @@
 </div>
  
 ---
- 
+
 ## 👨‍💻 Sobre mí
  
 ```text
@@ -42,8 +42,8 @@ $ whoami
 <br>
 
  ---
-
-## 🌐 Global Communication & Impact
+<div align="center">
+ ## 🌐 Global Communication & Impact
 
 > "La excelencia técnica no reconoce fronteras. Mi arquitectura está diseñada bajo estándares internacionales."
 
@@ -56,6 +56,9 @@ $ whoami
 
 ![English](https://img.shields.io/badge/English-Professional_Working_Proficiency-0052FF?style=for-the-badge&logo=google-translate&logoColor=white)
 ![Standard](https://img.shields.io/badge/Standards-Global_Vision-black?style=for-the-badge&logo=world-health-organization&logoColor=white)
+
+</div>
+
 
 <br>
 ---

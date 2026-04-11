@@ -191,13 +191,7 @@ HTML/CSS   ██████████████████░░   70%  �
  
 ---
  
-## 🏆 Trofeos de GitHub
- 
-<div align="center">
- 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rv3ndbm&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
- 
-</div>
+
  
 
  

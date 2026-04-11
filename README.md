@@ -116,13 +116,6 @@ $ whoami
  
 <div align="center">
  
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rv3ndbm&show_icons=true&theme=github_dark&hide_border=true&title_color=7F77DD&icon_color=7F77DD&text_color=c9d1d9&bg_color=0d1117&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rv3ndbm&layout=compact&theme=github_dark&hide_border=true&title_color=7F77DD&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
- 
-</div>
- 
-<div align="center">
- 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rv3ndbm&theme=github-dark-blue&hide_border=true&ring=7F77DD&fire=534AB7&currStreakLabel=7F77DD" width="500"/>
  
 </div>

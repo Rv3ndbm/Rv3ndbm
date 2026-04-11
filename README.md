@@ -40,7 +40,25 @@ $ whoami
 > un paso deliberado hacia el desarrollador que quiero ser.
  
 <br>
- 
+
+ ---
+
+## 🌐 Global Communication & Impact
+
+> "La excelencia técnica no reconoce fronteras. Mi arquitectura está diseñada bajo estándares internacionales."
+
+| Language | Proficiency | Context |
+| :--- | :--- | :--- |
+| **Spanish** | Native | Comunicación estratégica y liderazgo de proyectos. |
+| **English** | Professional | Technical documentation, AI research, and global networking. |
+
+<br>
+
+![English](https://img.shields.io/badge/English-Professional_Working_Proficiency-0052FF?style=for-the-badge&logo=google-translate&logoColor=white)
+![Standard](https://img.shields.io/badge/Standards-Global_Vision-black?style=for-the-badge&logo=world-health-organization&logoColor=white)
+
+<br>
+---
 <table>
   <tr>
     <td>🧠</td><td><b>Enfoque principal</b></td><td>Inteligencia Artificial & Automatización</td>

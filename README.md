@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rv3ndbm/Rv3ndbm/main/banner.svg" width="100%" alt="Rubén Darío Banner"/>
-</div>
+<!-- HEADER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=200&section=header&text=Rubén%20Darío&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20Web%20%7C%20Entusiasta%20de%20IA%20%7C%20Medellín%2C%20Colombia&descAlignY=58&descSize=18&descColor=c4c0f5" width="100%"/>
 
 <br>
 
@@ -62,6 +61,18 @@ $ whoami
 | 🔨 | **Construyendo** | Sitio web institucional de mi colegio |
 | 📍 | **Ubicación** | Medellín, Colombia 🇨🇴 |
 | ⚡ | **Dato curioso** | Empecé a programar antes de los 15 años |
+
+</div>
+
+<br>
+
+---
+
+## 🏆 Trofeos
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rv3ndbm&theme=discord&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -200,11 +211,40 @@ mediante contacto directo por WhatsApp.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rv3ndbm&theme=github-dark-blue&hide_border=true&ring=7F77DD&fire=534AB7&currStreakLabel=7F77DD" width="500"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rv3ndbm&theme=github-dark-blue&hide_border=true&ring=7F77DD&fire=534AB7&currStreakLabel=7F77DD" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rv3ndbm&layout=compact&theme=github_dark&hide_border=true&title_color=7F77DD&text_color=c4c0f5" width="41%"/>
 
 <br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rv3ndbm&theme=github-compact&hide_border=true&color=7F77DD&line=534AB7&point=7F77DD&area=true&area_color=534AB7" width="100%"/>
+
+</div>
+
+<br>
+
+---
+
+## 🐍 Actividad de contribuciones
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rv3ndbm/Rv3ndbm/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rv3ndbm/Rv3ndbm/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rv3ndbm/Rv3ndbm/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
+
+<br>
+
+---
+
+## 💬 Quote del día
+
+<div align="center">
+
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
@@ -224,7 +264,8 @@ mediante contacto directo por WhatsApp.
 
 <br>
 
----
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=534AB7&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 <div align="center">
 

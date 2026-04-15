@@ -6,7 +6,7 @@
  
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Visionario+%C2%B7+Constructor+%C2%B7+15+a%C3%B1os;Desarrollador+Web+%26+Entusiasta+de+IA;Construyendo+soluciones+inteligentes;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Visionario+%C2%B7+Constructor+%C2%B7+15+a%C3%B1os;Desarrollador+Web+%26+Entusiasta+de+IA;Construyendo+soluciones+funcionales;Medell%C3%ADn%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4)](https://git.io/typing-svg)
  
 </div>
  
@@ -31,9 +31,9 @@ $ whoami
 ```
  
 > Desde temprana edad, mi mente no procesa los problemas como obstáculos,
-> sino como **oportunidades de diseño**. Me especializo en construir soluciones
-> web funcionales e inteligentes, integrando modelos de lenguaje y automatización
-> para resolver desafíos reales.
+> sino como **oportunidades de diseño**. Me enfoco en construir soluciones
+> web funcionales y bien estructuradas, mientras exploro el uso de IA y automatización
+> para resolver problemas reales.
 >
 > No sigo el ritmo de las tendencias: las analizo, las deconstruyo y las reimagino
 > desde cero. Con 15 años y una visión clara, cada línea de código que escribo es
@@ -49,16 +49,17 @@ $ whoami
 
 <h1>🌐 Global Communication & Impact</h1>
 
-> "La excelencia técnica no reconoce fronteras. Mi arquitectura está diseñada bajo estándares internacionales."
+> "La tecnología no tiene fronteras, y busco desarrollar soluciones con una visión global."
 
-| Language | Proficiency | Context |
-| :--- | :--- | :--- |
-| **Spanish** | Native | Comunicación estratégica y liderazgo de proyectos. |
-| **English** | Professional | Technical documentation, AI research, and global networking. |
+| Language    | Nivel      | Contexto                                                             |
+| :---------- | :--------- | :------------------------------------------------------------------- |
+| **Spanish** | Nativo     | Comunicación clara y trabajo en equipo.                              |
+| **English** | Intermedio | Capaz de comunicarme en contextos técnicos y conversaciones básicas. |
+
 
 <br>
 
-![English](https://img.shields.io/badge/English-Professional_Working_Proficiency-0052FF?style=for-the-badge&logo=google-translate&logoColor=white)
+![English](https://img.shields.io/badge/English-Intermediate-0052FF?style=for-the-badge&logo=google-translate&logoColor=white)
 ![Standard](https://img.shields.io/badge/Standards-Global_Vision-black?style=for-the-badge&logo=world-health-organization&logoColor=white)
 
 </div>
@@ -69,10 +70,10 @@ $ whoami
 
 <table>
   <tr>
-    <td>🧠</td><td><b>Enfoque principal</b></td><td>Inteligencia Artificial & Automatización</td>
+    <td>🧠</td><td><b>Enfoque principal</b></td><td>Desarrollo Web enfocado en negocios locales</td>
   </tr>
   <tr>
-    <td>🌱</td><td><b>Aprendiendo</b></td><td>React · n8n · LLM APIs</td>
+    <td>🌱</td><td><b>Aprendiendo</b></td><td>React · n8n · Automatización con IA</td>
   </tr>
   <tr>
     <td>🔨</td><td><b>Construyendo</b></td><td>Sitio web institucional de mi colegio</td>
@@ -94,19 +95,23 @@ $ whoami
  
 <div align="center">
  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- Core (lo fuerte) -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
- 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![OpenAI](https://img.shields.io/badge/LLMs%20%2F%20IA-412991?style=for-the-badge&logo=openai&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<br>
+
+<!-- Backend básico -->
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+<!-- Explorando -->
+![Python](https://img.shields.io/badge/Python-Explorando-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-Aprendiendo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![n8n](https://img.shields.io/badge/n8n-Explorando-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
  
 </div>
  
@@ -134,11 +139,13 @@ $ whoami
  
 | Proyecto | Descripción | Stack | Estado |
 |:---|:---|:---|:---:|
-| 🏫 **Sitio web institucional** | Diseño y desarrollo completo del sitio oficial de mi colegio. Arquitectura moderna, UX cuidada. | HTML · CSS · JS · PHP | 🟡 En progreso |
-| 🤖 **Automatización con IA** | Flujos inteligentes con n8n y APIs de modelos de lenguaje para procesos reales. | n8n · Python · LLMs | 🔵 Planeación |
+| 🏫 **Sitio web institucional** | Diseño y desarrollo completo del sitio oficial de mi colegio. Enfocado en estructura clara, navegación intuitiva y experiencia de usuario. | HTML · CSS · JS · PHP | 🟡 En progreso |
+| 🤖 **Automatización con IA** | Exploración de automatización con n8n y APIs de IA para futuros proyectos. | n8n · APIs de IA | 🔵 Planeación |
 | 🌐 **Portfolio personal** | Sitio web profesional para mostrar proyectos, habilidades y trayectoria. | React · CSS | ⚪ Próximamente |
  
 </div>
+ 
+
  
 
  
@@ -146,47 +153,59 @@ $ whoami
  
 <div align="center">
  
-![React](https://img.shields.io/badge/React-aprendiendo-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![n8n](https://img.shields.io/badge/n8n-explorando-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![LLM APIs](https://img.shields.io/badge/LLM%20APIs-integrando-412991?style=flat-square&logo=openai&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-próximamente-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-aprendiendo-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![n8n](https://img.shields.io/badge/n8n-explorando-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![IA](https://img.shields.io/badge/IA%20%2F%20Agentes-explorando-412991?style=for-the-badge&logo=openai&logoColor=white)
  
 </div>
+
+<div align="center">
+
+Explorando desarrollo frontend moderno, automatización de procesos y uso de inteligencia artificial en aplicaciones reales.
+
+</div>
  
-```text
-React      ████████░░░░░░░░░░░░   30%  · Componentes y hooks
-n8n        ████████████░░░░░░░░   40%  · Flujos y automatización
-LLM APIs   ██████████████░░░░░░   55%  · Integración en apps
-Python     ████████████████░░░░   60%  · Scripts y automatización
-HTML/CSS   ██████████████████░░   70%  · Layouts y diseño web
-```
+
  
 
  
 ## 🗺️ Roadmap personal
  
 ```text
-✅  [2024] Fundamentos sólidos
-         └─ HTML, CSS, JavaScript, PHP, MySQL, Python
+🟢  [2025 - Inicio] Primer contacto con programación
+         └─ C# y fundamentos básicos de lógica
  
-🟣  [2025] Primer proyecto real publicado        ← AQUÍ ESTOY
-         └─ Sitio web institucional del colegio
+🔵  [2025 - Medio] Exploración en Python
+         └─ Scripts simples y primeros conceptos
  
-⬜  [2025] Dominar React & automatización con n8n
-         └─ Interfaces modernas + flujos inteligentes
+🟣  [2025 - Finales] Desarrollo web
+         └─ HTML, CSS, JavaScript
+         └─ Inicio del proyecto institucional (sitio del colegio)
  
-⬜  [2025] Lanzar primer producto propio con IA
-         └─ Solución funcional y accesible al público
+🟡  [2026 - Actualidad] Enfoque profesional
+         └─ Creación de mi Marca personal ZENTO
+         └─ Backend básico (PHP, MySQL)
+         └─ Publicación de sitios web (hosting, dominios)
+         └─ Automatización y uso de IA
  
-⬜  [2026] Portafolio profesional consolidado
-         └─ Proyectos con impacto real documentados
+⚪  [Próximo paso]
+         └─ Conseguir primeros clientes reales
+         └─ Crear soluciones para negocios locales
 ```
  
 ---
  
 
  
+## 💼 Enfoque actual
 
+<div align="center">
+
+Desarrollo páginas web para negocios locales,
+optimizadas para aparecer en Google y convertir visitas en clientes
+mediante contacto directo por WhatsApp.
+
+</div>
  
 ## 📬 Contacto
  

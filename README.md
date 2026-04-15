@@ -72,7 +72,11 @@ $ whoami
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rv3ndbm&theme=discord&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rv3ndbm&theme=discord&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 </div>
 

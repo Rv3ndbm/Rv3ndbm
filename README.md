@@ -68,22 +68,6 @@ $ whoami
 
 ---
 
-## 🏆 Trofeos
-
-<div align="center">
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rv3ndbm&theme=discord)
-
-</div>
-
-</div>
-
-<br>
-
----
-
 ## 🛠️ Stack tecnológico
 
 <div align="center">
